@@ -15,6 +15,10 @@ app.filter('searchFor', function(){
 			return arr;
 		}
 
+		var sbres;
+		var nbres;
+		var salary total;
+
 		var result = [];
 
 		searchString = searchString.toLowerCase();
